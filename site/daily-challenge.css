@@ -1,9 +1,13 @@
-h1 {
+h1,
+#heading-link {
   font-family: "Oswald", sans-serif;
   text-align: center;
   color: #534b4b;
   text-shadow: gray 0px 0px 4pt;
   text-decoration: underline;
+}
+#heading-link:hover {
+  color: rgb(167, 1, 78);
 }
 p {
   color: #534b4b; /*this is a comment lmao */
